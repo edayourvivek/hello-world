@@ -1,3 +1,4 @@
 # hello-world
 This is my first github repository
-i'am a computer science student and iam new to github.
+i love to code ...
+but don'y know hoe to start
